@@ -1,13 +1,13 @@
 # Habit Tracker
 
-A personal habit tracking and management application.
+Aplicación web para que usuarios registren, monitoreen y analicen sus hábitos diarios de forma simple y motivadora.
 
 ## Stack
 
-- **Frontend**: Next.js 15 with App Router, TypeScript, Tailwind CSS
+- **Frontend**: Next.js 15 (App Router), TypeScript, Tailwind CSS
 - **Backend**: Supabase (PostgreSQL + Auth)
-- **Deployment**: Vercel
+- **Deploy**: Vercel
 
-## Status
+## Estado
 
 Documentación en construcción.
